@@ -1,0 +1,64 @@
+.item 
+		{
+			float: left;
+			width:31.85%;
+			
+			padding-bottom:20px;
+		}
+body		{
+			color: #7a7a7a;
+			font-family:helvetica;
+		}
+label
+		{
+			position:relative;
+		}
+table.bot td
+		{
+			vertical-align:bottom;
+		}
+.header
+		{
+			
+			width:76.7%;
+			height:42px;
+			position:relative;
+			border-bottom:solid 2px black;
+			top:-10px;
+			background:#252525;
+			font:10.5pt bold ;
+		}
+.cathLabel
+		{
+			padding-top:10px;
+			display:block;
+			color: #aeaeae;
+			font: 10pt bold;
+		}
+.titleLabel
+		{
+			padding-top:10px;
+			display:block;
+			color: black;
+			font:  bold 200% helvetica;
+		}
+.contLabel
+		{
+			padding-top:10px;
+			display:block;
+			color: black;
+			font: 11pt bold;
+		}
+.authLabel
+		{
+			left: -8%;
+			display:inline;
+			color: #aeaeae;
+			font: 9pt bold;
+		}
+
+	
+table
+	{
+		
+	}
